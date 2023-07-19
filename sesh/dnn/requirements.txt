@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+PIllow
+numpy
+imutils
+torch 
+torchvision 
+torchaudio
+opencv-python
+tqdm
+=======
+PIllow
+numpy
+imutils
+torch 
+torchvision 
+torchaudio
+opencv-python
+tqdm
+>>>>>>> 597a42048fcb0d265e9f47c9b0ed67cad4618ef5
+svglib
