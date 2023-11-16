@@ -6,8 +6,8 @@ This projects is meant to provide tools and demo environments for an implementat
 The projects is composed of:
 1. Ptah - a tool to generate training and validation datasets for OCR models for Egyptian hieroglyphs
 2. Sesh - a set of computer vision (cv) training scripts using Pytorch to create a classification model for Ancient Egyptian Hieroglyphs.
-3. Wedjat - a tool to identify registers in images of hieroglyphic texts
-4. A demo website using all of the above 
+3. [Work in Progress] Wedjat - a tool to identify registers in images of hieroglyphic texts
+4. [Work in Progress] A demo website using all of the above 
 
 
 ## File Structure
